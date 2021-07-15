@@ -1,0 +1,13 @@
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\bin\Debug\PlanEvent.exe.config
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\bin\Debug\PlanEvent.exe
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\bin\Debug\PlanEvent.pdb
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.Form1.resources
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.exe
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.pdb
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\bin\Debug\Newtonsoft.Json.dll
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\bin\Debug\Newtonsoft.Json.xml
+f:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_PlanEvent\PlanEvent\PlanEvent\obj\Debug\PlanEvent.csproj.CopyComplete
